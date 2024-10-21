@@ -11,6 +11,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/chan99k?pet-id=1" width="1500" height="120"/>
+</a>
+
+<br/>
+
+
 ### 🔨 Skills
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kjkj5868)](https://solved.ac/kjkj5868)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
@@ -23,9 +30,8 @@ Here are some ideas to get you started:
 
 <br/>
 
+
+
 ### 📚 My github history
 [![chan99k's GitHub stats](https://github-readme-stats.vercel.app/api?username=chan99k)](https://github.com/anuraghazra/github-readme-stats)  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjkj5868)](https://solved.ac/kjkj5868)
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/chan99k?pet-id=1" width="1000" height="120"/>
-</a>
