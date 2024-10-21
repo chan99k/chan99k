@@ -1,7 +1,6 @@
-## Hi there 👋
 
-<!--
-**chan99k/chan99k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+### 🔨 Skills
+
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&flat&logo=Spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring%20boot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-6DB33F)
+![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-6DB33F?)
+
+<br/>
+
+### 📚 My github history
+[![chan99k's GitHub stats](https://github-readme-stats.vercel.app/api?username=chan99k)](https://github.com/anuraghazra/github-readme-stats)
