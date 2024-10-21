@@ -1,6 +1,4 @@
-
-
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=chan99k's%20profile&fontSize=90)
 
 Here are some ideas to get you started:
 
