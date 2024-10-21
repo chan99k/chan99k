@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ### 🔨 Skills
-
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kjkj5868)](https://solved.ac/kjkj5868)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
@@ -26,4 +26,5 @@ Here are some ideas to get you started:
 <br/>
 
 ### 📚 My github history
-[![chan99k's GitHub stats](https://github-readme-stats.vercel.app/api?username=chan99k)](https://github.com/anuraghazra/github-readme-stats)
+[![chan99k's GitHub stats](https://github-readme-stats.vercel.app/api?username=chan99k)](https://github.com/anuraghazra/github-readme-stats)  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjkj5868)](https://solved.ac/kjkj5868)
+
