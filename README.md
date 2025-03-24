@@ -1,10 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=chan99k's%20profile&fontSize=90)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
+- 🌱 I’m currently learning ... [chan99k/java-playground](https://github.com/chan99k/java-playground)
 
 
 <a href="https://github.com/devxb/gitanimals">
@@ -15,7 +11,8 @@
 
 
 ### 🔨 Skills
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kjkj5868)](https://solved.ac/kjkj5868)
+[![LeetCode user BH3I5i1FXT](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FBH3I5i1FXT&logo=leetcode&logoColor=yellow)](https://leetcode.com/BH3I5i1FXT/)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kjkj5868)](https://solved.ac/kjkj5868) 
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
