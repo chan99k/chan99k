@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=chan99k's%20profile&fontSize=90)
 
-- 🌱 I’m currently in ... [chan99k/wanted-preonbording-chanllenge](https://github.com/chan99k/wanted-preonboarding-challenge-backend-31)
+- 🌱 I’m currently in ... [f-lab-edu/learning-manager](https://github.com/f-lab-edu/learning-manager)
 
 
 <a href="https://github.com/devxb/gitanimals">
